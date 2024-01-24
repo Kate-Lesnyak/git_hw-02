@@ -1,3 +1,3 @@
 const a = {
-  name: 'Kate@gmail.com',
+	email: 'Kate@gmail.com',
 }
